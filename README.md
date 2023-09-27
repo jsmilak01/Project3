@@ -1,4 +1,4 @@
-# Project3
+# Project4
 
 Application that helps students practice mathematics
 
@@ -30,6 +30,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 I was unable to get full functionality of the app, my done button on the second screen would not do anything
 and I just could not figure out why it wouldnt work.
+Still was unable to get the done button to work and did not realize I had passed data incorrectly between layouts until due dat and was unable to figure it out in time.
+Sorry there is not much more added to the project I got a bit behind in a couple classes but I will come to office hours next week to try and figure out what I have missed.
 
 ## License
 
